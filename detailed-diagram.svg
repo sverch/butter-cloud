@@ -4,22 +4,21 @@
   <g id="Background">
     <g>
       <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="200" y="100" width="580" height="591" rx="0" ry="0"/>
-      <text font-size="45.5394" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="490" y="181.612">
-        <tspan x="490" y="181.612"></tspan>
-        <tspan x="490" y="238.536"></tspan>
-        <tspan x="490" y="295.46"></tspan>
-        <tspan x="490" y="352.384"></tspan>
-        <tspan x="490" y="409.309"></tspan>
-        <tspan x="490" y="466.233"></tspan>
-        <tspan x="490" y="523.157"></tspan>
-        <tspan x="490" y="580.081"></tspan>
-        <tspan x="490" y="637.005">Host VM                       </tspan>
+      <text font-size="45.5394" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="490" y="210.074">
+        <tspan x="490" y="210.074"></tspan>
+        <tspan x="490" y="266.998"></tspan>
+        <tspan x="490" y="323.922"></tspan>
+        <tspan x="490" y="380.846"></tspan>
+        <tspan x="490" y="437.771"></tspan>
+        <tspan x="490" y="494.695"></tspan>
+        <tspan x="490" y="551.619"></tspan>
+        <tspan xml:space="preserve" x="490" y="608.543">                       </tspan>
       </text>
     </g>
     <g>
       <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="240" y="120" width="509" height="165" rx="0" ry="0"/>
       <text font-size="45.5394" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="494.5" y="216.309">
-        <tspan x="494.5" y="216.309">Guest VM             </tspan>
+        <tspan xml:space="preserve" x="494.5" y="216.309">             </tspan>
       </text>
     </g>
     <g>
@@ -103,13 +102,13 @@
         <tspan x="1130" y="466.233"></tspan>
         <tspan x="1130" y="523.157"></tspan>
         <tspan x="1130" y="580.081"></tspan>
-        <tspan x="1130" y="637.005">Host VM                       </tspan>
+        <tspan xml:space="preserve" x="1130" y="637.005">                       </tspan>
       </text>
     </g>
     <g>
       <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="880" y="120" width="509" height="165" rx="0" ry="0"/>
       <text font-size="45.5394" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1134.5" y="216.309">
-        <tspan x="1134.5" y="216.309">Guest VM             </tspan>
+        <tspan xml:space="preserve" x="1134.5" y="216.309">             </tspan>
       </text>
     </g>
     <g>
@@ -168,5 +167,20 @@
       <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1215.35" y1="639.25" x2="1210" y2="656"/>
       <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="1217.63,632.106 1219.35,643.153 1215.35,639.25 1209.83,640.111 "/>
     </g>
+    <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="494.5" y="202.5">
+      <tspan x="494.5" y="202.5"></tspan>
+    </text>
+    <text font-size="45.5387" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="280" y="200">
+      <tspan x="280" y="200">Guest VM</tspan>
+    </text>
+    <text font-size="45.5387" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="920" y="200">
+      <tspan x="920" y="200">Guest VM</tspan>
+    </text>
+    <text font-size="45.5387" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="220" y="620">
+      <tspan x="220" y="620">Host VM</tspan>
+    </text>
+    <text font-size="45.5387" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="860" y="620">
+      <tspan x="860" y="620">Host VM</tspan>
+    </text>
   </g>
 </svg>
