@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="62cm" height="39cm" viewBox="199 99 1222 768" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Background">
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="200" y="100" width="580" height="591" rx="0" ry="0"/>
+      <text font-size="45.5394" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="490" y="181.612">
+        <tspan x="490" y="181.612"></tspan>
+        <tspan x="490" y="238.536"></tspan>
+        <tspan x="490" y="295.46"></tspan>
+        <tspan x="490" y="352.384"></tspan>
+        <tspan x="490" y="409.309"></tspan>
+        <tspan x="490" y="466.233"></tspan>
+        <tspan x="490" y="523.157"></tspan>
+        <tspan x="490" y="580.081"></tspan>
+        <tspan x="490" y="637.005">Host VM                       </tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="240" y="120" width="509" height="165" rx="0" ry="0"/>
+      <text font-size="45.5394" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="494.5" y="216.309">
+        <tspan x="494.5" y="216.309">Guest VM             </tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="300" y="260" width="440" height="71" rx="0" ry="0"/>
+      <text font-size="28.606" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="520" y="304.174">
+        <tspan x="520" y="304.174">eth0 (192.168.1.2/24)</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="300" y="360" width="440" height="71" rx="0" ry="0"/>
+      <text font-size="28.606" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="520" y="404.174">
+        <tspan x="520" y="404.174">brtun (ethernet bridge)</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="300" y="457" width="440" height="71" rx="0" ry="0"/>
+      <text font-size="28.606" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="520" y="501.174">
+        <tspan x="520" y="501.174">gretun (virtual ethernet)</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="440" y="557.742" width="300" height="71.2576" rx="0" ry="0"/>
+      <text font-size="28.606" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="590" y="602.045">
+        <tspan x="590" y="602.045">wg0 (10.0.0.1/24)</tspan>
+      </text>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="520" y1="331" x2="520" y2="350.264"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="520,357.764 515,347.764 520,350.264 525,347.764 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="520" y1="431" x2="520" y2="447.264"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="520,454.764 515,444.764 520,447.264 525,444.764 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="559.136" y1="528.976" x2="582.878" y2="551.104"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="588.364,556.217 577.64,553.057 582.878,551.104 584.458,545.742 "/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="540" y="140" width="196.75" height="71" rx="0" ry="0"/>
+      <text font-size="28.606" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="638.375" y="184.174">
+        <tspan x="638.375" y="184.174">Applications</tspan>
+      </text>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="587.251" y1="211.994" x2="527.924" y2="254.343"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="521.82,258.701 527.054,248.821 527.924,254.343 532.864,256.96 "/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="400" y="656" width="340" height="71.2576" rx="0" ry="0"/>
+      <text font-size="28.606" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="570" y="700.303">
+        <tspan x="570" y="700.303">eth0 (172.16.1.2/24)</tspan>
+      </text>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="578.311" y1="629.976" x2="572.962" y2="646.725"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="570.68,653.87 568.959,642.823 572.962,646.725 578.485,645.865 "/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="200" y="760" width="1220" height="106" rx="0" ry="0"/>
+      <text font-size="56.8283" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="810" y="830.232">
+        <tspan x="810" y="830.232">Internet</tspan>
+      </text>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="570" y1="727.258" x2="513.695" y2="755.62"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="506.997,758.994 513.679,750.03 513.695,755.62 518.177,758.961 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1200.8" y1="730.43" x2="1115" y2="760"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="1207.89,727.987 1200.06,735.972 1200.8,730.43 1196.8,726.518 "/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="840" y="100" width="580" height="591" rx="0" ry="0"/>
+      <text font-size="45.5394" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1130" y="181.612">
+        <tspan x="1130" y="181.612"></tspan>
+        <tspan x="1130" y="238.536"></tspan>
+        <tspan x="1130" y="295.46"></tspan>
+        <tspan x="1130" y="352.384"></tspan>
+        <tspan x="1130" y="409.309"></tspan>
+        <tspan x="1130" y="466.233"></tspan>
+        <tspan x="1130" y="523.157"></tspan>
+        <tspan x="1130" y="580.081"></tspan>
+        <tspan x="1130" y="637.005">Host VM                       </tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="880" y="120" width="509" height="165" rx="0" ry="0"/>
+      <text font-size="45.5394" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1134.5" y="216.309">
+        <tspan x="1134.5" y="216.309">Guest VM             </tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="940" y="260" width="440" height="71" rx="0" ry="0"/>
+      <text font-size="28.606" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1160" y="304.174">
+        <tspan x="1160" y="304.174">eth0 (192.168.1.3/24)</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="940" y="360" width="440" height="71" rx="0" ry="0"/>
+      <text font-size="28.606" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1160" y="404.174">
+        <tspan x="1160" y="404.174">brtun (ethernet bridge)</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="940" y="457" width="440" height="71" rx="0" ry="0"/>
+      <text font-size="28.606" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1160" y="501.174">
+        <tspan x="1160" y="501.174">gretun (virtual ethernet)</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1080" y="557.742" width="300" height="71.2576" rx="0" ry="0"/>
+      <text font-size="28.606" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1230" y="602.045">
+        <tspan x="1230" y="602.045">wg0 (10.0.0.2/24)</tspan>
+      </text>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1160" y1="340.736" x2="1160" y2="360"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="1160,333.236 1165,343.236 1160,340.736 1155,343.236 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1160" y1="440.736" x2="1160" y2="457"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="1160,433.236 1165,443.236 1160,440.736 1155,443.236 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1206.26" y1="535.614" x2="1230" y2="557.742"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="1200.77,530.5 1211.5,533.661 1206.26,535.614 1204.68,540.976 "/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1180" y="140" width="196.75" height="71" rx="0" ry="0"/>
+      <text font-size="28.606" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1278.38" y="184.174">
+        <tspan x="1278.38" y="184.174">Applications</tspan>
+      </text>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1219.33" y1="217.651" x2="1160" y2="260"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="1225.43,213.293 1220.2,223.173 1219.33,217.651 1214.39,215.034 "/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1040" y="656" width="340" height="71.2576" rx="0" ry="0"/>
+      <text font-size="28.606" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1210" y="700.303">
+        <tspan x="1210" y="700.303">eth0 (172.16.1.3/24)</tspan>
+      </text>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1215.35" y1="639.25" x2="1210" y2="656"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="1217.63,632.106 1219.35,643.153 1215.35,639.25 1209.83,640.111 "/>
+    </g>
+  </g>
+</svg>
